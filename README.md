@@ -122,5 +122,3 @@ python model.py
 ## 👤 Author
 
 Maher Zouari — [github.com/maherzouari0](https://github.com/maherzouari0)
-python analysis.py
-python model.py
